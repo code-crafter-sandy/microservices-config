@@ -1,3 +1,9 @@
+
+spring:
+  application:
+    name: Config-defult
+
+
 eureka:
   instance:
     prefer-ip-address: true
